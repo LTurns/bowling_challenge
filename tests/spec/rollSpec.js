@@ -42,12 +42,5 @@ describe('Roll', function() {
     expect(roll.showStrike()).toEqual(10);
   });
 
-  // it('limits the amout of pins after the first roll in a frame', function(){
-  //   roll.up();
-  //   roll.up();
-  //   roll.up();
-  //   roll.getCurrentPins()
-  //   expect(roll.limit(roll, next_roll));
-  // });
 
 });
